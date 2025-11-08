@@ -1,0 +1,12 @@
+[theme]
+# 🌈 Premium Glassmorphism Theme
+base="light"
+primaryColor="#6366F1"                # Indigo blue accent
+backgroundColor="#f0f4ff"             # Soft pastel background
+secondaryBackgroundColor="#ffffffcc"  # White glass background
+textColor="#1f2937"                   # Dark gray for text
+font="sans serif"
+
+# 💎 Optional extras (Streamlit ignores unknown keys, safe to keep)
+borderRadius="15px"
+shadowColor="#e0e7ff"
