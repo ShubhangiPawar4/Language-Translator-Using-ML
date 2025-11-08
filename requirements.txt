@@ -6,4 +6,4 @@ langdetect
 transformers
 torch
 SpeechRecognition
-pyaudio
+pydub
